@@ -6,11 +6,11 @@
 #include "WebServer.h"
 
 // Wi-Fi Credentials
-const char* ssid = "Phoenix-extend";
-const char* password = "7003509770kushal";
+const char* ssid = "...";     // your wifi name
+const char* password = "..."; // your wifi password
 
 // Gemini API Configuration
-const char* Gemini_Token = "AIzaSyB888hU8v-aiG5m8jzodHS7JZ0Dgn0DFpI";
+const char* Gemini_Token = "....";  // your api key
 const char* Gemini_Max_Tokens = "100";
 
 // I2S Speaker Pins
