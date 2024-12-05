@@ -18,8 +18,8 @@ List of parts
 
 ![img1](https://github.com/user-attachments/assets/a004d039-e67a-4250-99b0-db593f19de41)
 
-![img4](https://github.com/user-attachments/assets/58ccabe4-e7ea-4190-9fc2-c2844dfe9cfd)
+![img2](https://github.com/user-attachments/assets/394b060f-1462-4193-9fc2-7a2ea551569c)
 
 ![img3](https://github.com/user-attachments/assets/2bd3ae2d-a335-4567-87a2-1402c2450cc0)
 
-![img2](https://github.com/user-attachments/assets/394b060f-1462-4193-9fc2-7a2ea551569c)
+![img4](https://github.com/user-attachments/assets/58ccabe4-e7ea-4190-9fc2-c2844dfe9cfd)
