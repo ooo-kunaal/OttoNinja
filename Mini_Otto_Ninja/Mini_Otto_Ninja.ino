@@ -7,11 +7,11 @@
 #include <ESP32Servo.h>
 
 // Wi-Fi Credentials
-const char* ssid = "SHELL-4474B8";
-const char* password = "jdvPtbK8HBhp";
+const char* ssid = "...";
+const char* password = "...";
 
 // Gemini API Configuration
-const char* Gemini_Token = "AIzaSyB888hU8v-aiG5m8jzodHS7JZ0Dgn0DFpI";
+const char* Gemini_Token = "...";
 const char* Gemini_Max_Tokens = "25";
 
 // Define Servo Object
