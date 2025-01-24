@@ -1,5 +1,7 @@
 # OttoNinja
 
+Youtube Video : https://youtu.be/Sobd_wTwS-c 
+
 -----------------
 List of parts
 -----------------
